@@ -14,17 +14,13 @@ Descriptive Statistics:
   
 Customer Segmentation:
 - Geographical Segmentation: Analyzed orders based on city to identify high-demand areas.
-- Order Frequency: Identified customers with the highest order frequencies.
   
-Time Series Analysis:
-- Sales Trends Over Time: Analyzed order values over time to identify trends, peaks, and troughs.
-- Monthly/Weekly Analysis: Broke down orders by month or week to detect seasonal patterns.
   
 Revenue Analysis:
-- Total Revenue: Calculated the total revenue generated.
+- Total Revenue: Calculated the total revenue generated per year.
 
 Data Visualization:
-Bar Charts: Created bar charts to show the number of orders by city.
+Bar Charts: Created bar charts to show the number of orders by city and yearly revenue
 
 
 Tools Used:
